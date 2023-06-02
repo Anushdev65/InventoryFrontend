@@ -1,0 +1,101 @@
+.mb-3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+
+#formGridTitle {
+    display: flex;
+    /* justify-content: center; */
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    width: 50%;
+    /* margin-left: 16rem; */
+
+}
+
+.custom-label-one {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    /* justify-content: center; */
+    /* margin-left: 6rem;
+    margin-top: 1rem; */
+
+}
+
+#formGridDescription {
+    display: flex;
+    text-align: center;
+
+    background-color: black;
+    color: wheat;
+    width: 50%;
+    /* margin-left: 2rem; */
+}
+
+.custom-label-two {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    /* justify-content: center; */
+    /* margin-left: 10rem;
+    margin-top: 1rem; */
+
+}
+
+#formGridPrice {
+    display: flex;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    width: 50%;
+    /* margin-left: 13rem; */
+}
+
+#formGridCategory {
+    display: flex;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 50%;
+    /* margin-left: 7rem; */
+}
+
+#formGridBrand {
+    display: flex;
+    text-align: center;
+    /* margin-left: 6.5rem; */
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+
+
+}
+
+.custom-label-three {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    /* margin-left: 8rem;
+    margin-top: 1rem; */
+
+}
+
+.custom-button {
+    display: flex;
+    /* margin-top: 3rem;
+    margin-left: 40rem; */
+    background-color: black;
+    color: white;
+}
+
+.custom-label-four {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    /* justify-content: center; */
+    /* margin-top: 1rem; */
+
+}
